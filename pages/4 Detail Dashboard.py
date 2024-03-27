@@ -151,7 +151,7 @@ if selected:
         ax.text(bins[i] + 0.125, counts[i] + 1, str(int(counts[i])), ha='center', va='top', fontsize=4,rotation=90)
 
     st.pyplot(fig)
-    with st.expander("Infomation Details"):
+    with st.expander("Information Details"):
         total_students = df_selected.count().sum()
         average_score = np.mean(df_selected)
         total_10_scores = np.sum(df_selected == 10) 
@@ -184,7 +184,7 @@ if selected_block:
         ax2.text(bins[i] + 0.125, counts[i] + 1, str(int(counts[i])), ha='left', va='bottom', fontsize=6,rotation=90)
 
     st.pyplot(fig2)
-    with st.expander("Infomation Details"):
+    with st.expander("Information Details"):
         total_students_block = df_selected_block.count().sum()
         average_score_block = np.mean(df_selected_block)
         most_common_score_block = round(df_selected_block.mode().iloc[0], 2)

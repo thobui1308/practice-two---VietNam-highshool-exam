@@ -13,7 +13,7 @@ st.write(
 *   **BlockA1**: Similar to Khoi A but with a variation. It includes ***Math, Physics, and a Foreign Language (usually English)***. This variation is often chosen by students interested in technical or scientific fields who also prioritize proficiency in English.
 *   **BlockB**: This combination focuses on subjects related to biology and is often chosen by students interested in life sciences or medical studies. It comprises ***Math, Chemistry, and Biology.***
 *   **BlockC**: This combination emphasizes subjects related to social sciences and humanities. It typically includes ***Literature, History, and Geography.*** Students interested in fields like law, social sciences, or humanities usually opt for this combination.
-*   ***Khoi D (BlockD):*** This combination is a mix of subjects from both natural sciences and social sciences/humanities. It includes ***Math, Literature, and a Foreign Language (usually English)***. It provides a balanced approach and is chosen by students with varied interests or those unsure about their career paths.
+*   **BlockD**: This combination is a mix of subjects from both natural sciences and social sciences/humanities. It includes ***Math, Literature, and a Foreign Language (usually English)***. It provides a balanced approach and is chosen by students with varied interests or those unsure about their career paths.
 
 And, we use Natural Sciences and Social Sciences as combinations used for graduation evaluation:
 *   **Natural Sciences**: This combination, known as the Natural Sciences Group, comprises ***Physics, Chemistry, and Biology.*** It's designed for students undergoing graduation evaluation who have chosen to focus on natural sciences. 

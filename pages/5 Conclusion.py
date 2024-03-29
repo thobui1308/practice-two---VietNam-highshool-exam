@@ -2,20 +2,24 @@ import streamlit as st
 import requests 
 from streamlit_lottie import st_lottie
 
-st.title(':school: Conclusion')
+st.title(':blue book: :blue[Conclusion]')
 
 st.write(
  """
  
 In conclusion, the analysis of the national high school exam scores from 2018 to 2021 provides valuable insights into the performance trends of students during these years. Here are some key findings:
 
-* Overall Performance Trends: The overall performance of students in the national high school exam has shown variations over the years. It is essential to delve deeper into the reasons behind these fluctuations to identify areas for improvement and implement effective educational strategies.
+* Overall Performance Trends: The dashboard shows how scores have changed from year to year. It helps to provide us the candidate quality and exam difficulty to improve.
 
-* Subject-specific Analysis: Analyzing the scores across different subjects reveals areas of strength and weakness among students. This information can guide educational institutions and policymakers in curriculum development and resource allocation.
+* Analyzing the score of Subjects, Blocks, and Combos: It provides the insight for student to select based on their strenghths and weaknesses and helps make plan revise better.
 
-* Geographical Disparities: There may be noticeable differences in exam scores across different provinces or regions. Understanding these geographical disparities can help in addressing educational inequalities and providing targeted support to underperforming areas.
+* Geographical Disparities: We can see big differences in scores between different provinces or cities. Understanding these geographical gaps can help address educational inequalities and provide direction and assistance to struggling areas.
+
+Overall, the analysis of the national high school exam scores provides valuable insights into the educational landscape and highlights areas that require attention and intervention to ensure the continuous improvement of the education system.
  """
 )
+
+
 
 def load_lottieurl(url: str):
  r = requests.get(url)

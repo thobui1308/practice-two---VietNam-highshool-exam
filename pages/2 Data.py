@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import glob
 
 st.set_page_config(layout="wide")
 st.title(":bar_chart: Dataset")
@@ -21,11 +20,10 @@ And, we use Natural Sciences and Social Sciences as combinations used for gradua
 *   ***Social Sciences***: This combination, known as the Social Sciences and Humanities Group, includes ***History, Geography, and Civic Education.*** It's intended for students undergoing graduation evaluation who have selected subjects from the social sciences and humanities.
  """
 )
-data_files = glob.glob("data/'*.parquet'")
+
 tab1, tab2, tab3, tab4, tab5,tab6 = st.tabs(["Data", "2017","2018","2019","2020","2021"])
 with tab1:
-    df = load_select_feature(data_files[0])
-    #df = pd.read_parquet('df_sample.parquet')
+    df = pd.read_parquet('df_sample.parquet')
     st.dataframe(df.head(20))
 with tab2:
     df = pd.read_parquet('df_2017.parquet')

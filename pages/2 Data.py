@@ -22,22 +22,22 @@ And, we use Natural Sciences and Social Sciences as combinations used for gradua
 )
 tab1, tab2, tab3, tab4, tab5,tab6 = st.tabs(["Data", "2017","2018","2019","2020","2021"])
 with tab1:
-    df = pd.read_parquet('df_sample.parquet')
+    df = pd.read_parquet('practice-two---VietNam-highshool-exam\dataset\df_sample.parquet')
     st.dataframe(df.head(20))
 with tab2:
-    df = pd.read_parquet('df_2017.parquet')
+    df = pd.read_parquet('practice-two---VietNam-highshool-exam\dataset\df_2017.parquet')
     st.dataframe(df.head(20))
 with tab3:
-    df = pd.read_parquet('df_2018.parquet')
+    df = pd.read_parquet('practice-two---VietNam-highshool-exam\dataset\df_2018.parquet')
     st.dataframe(df.head(20))
 with tab4:
-    df = pd.read_parquet('df_2019.parquet')
+    df = pd.read_parquet('practice-two---VietNam-highshool-exam\dataset\df_2019.parquet')
     st.dataframe(df.head(20))
 with tab5:
-    df = pd.read_parquet('df_2020.parquet')
+    df = pd.read_parquet('practice-two---VietNam-highshool-exam\dataset\df_2020.parquet')
     st.dataframe(df.head(20))
 with tab6:
-    df = pd.read_parquet('df_2021.parquet')
+    df = pd.read_parquet('practice-two---VietNam-highshool-exam\dataset\df_2021.parquet')
     st.dataframe(df.head(20))
 
 

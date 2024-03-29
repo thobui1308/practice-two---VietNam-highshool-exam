@@ -6,6 +6,7 @@
 
 ## Team Size
 - 1 Data Analyst
+
 ***Start date:*** 11/03/2024
 
 ***Timeline:*** 10 days
@@ -15,4 +16,7 @@
 ***Target:***
 - To learn and practice how to make a dashboard using Streamlit 
 - Enhancing experience in working with big data
-- Improve the skills in data processing, applying statistical knowledge, samping and visualiztion to solve the real-world problems.
+- Improve the skills in data processing, applyilsng statistical knowledge, samping and visualiztion to solve the real-world problems.
+
+## Technical Stack:
+- Python

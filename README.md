@@ -1,7 +1,7 @@
 # practice-two---VietNam-highshool-exam
 ## Overview 
-- The VietNam High School Exam dashboard provides an overview and detailed infomation about the National High School Exam from 2017 to 2018.
-- The datase is sourced from Kaggle:  https://www.kaggle.com/datasets/phuc16102001/vietnam-highschool-exam-2017-to-2021
+- The VietNam High School Exam dashboard provides an overview and detailed infomation about the National High School Exam from 2017 to 2021.
+- The dataset is sourced from Kaggle:  https://www.kaggle.com/datasets/phuc16102001/vietnam-highschool-exam-2017-to-2021
 - Here is dashboard public: https://practice-two---vietnam-highshool-exam.streamlit.app/
 
 ## Team Size

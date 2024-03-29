@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.express as px
 
 #read data
-df = pd.read_parquet('practice-two---VietNam-highshool-exam\dataset\df_sample.parquet')
+df = pd.read_parquet('df_sample.parquet')
 ##
 st.title(':books: Vietnam Highschool Exam 2018-2021 Dashboard')
 st.markdown('##')

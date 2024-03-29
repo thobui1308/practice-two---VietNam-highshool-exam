@@ -2,7 +2,7 @@ import streamlit as st
 import requests 
 from streamlit_lottie import st_lottie
 
-st.title(':blue book: :blue[Conclusion]')
+st.title(':blue_book: :blue[Conclusion]')
 
 st.write(
  """

@@ -9,11 +9,11 @@ st.write(
  
 In conclusion, the analysis of the national high school exam scores from 2018 to 2021 provides valuable insights into the performance trends of students during these years. Here are some key findings:
 
-* *Overall Performance Trends*: The dashboard shows how scores have changed from year to year. It helps to provide us the candidate quality and exam difficulty to improve.
+* **Overall Performance Trends**: The dashboard shows how scores have changed from year to year. It helps to provide us the candidate quality and exam difficulty to improve.
 
-* *Analyzing the score of Subjects, Blocks, and Combos*: It provides the insight for student to select based on their strenghths and weaknesses and helps make revision plan better.
+* **Analyzing the score of Subjects, Blocks, and Combos**: It provides the insight for student to select based on their strenghths and weaknesses and helps make revision plan better.
 
-* *Geographical Disparities*: We can see big differences in scores between different provinces or cities. Understanding these geographical gaps can help address educational inequalities and provide direction and assistance to struggling areas.
+* **Geographical Disparities**: We can see big differences in scores between different provinces or cities. Understanding these geographical gaps can help address educational inequalities and provide direction and assistance to struggling areas.
 
 Overall, the analysis of the national high school exam scores provides valuable insights into the educational landscape and highlights areas that require attention and intervention to ensure the continuous improvement of the education system.
  """

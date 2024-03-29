@@ -14,8 +14,8 @@
 ***Actual:*** 12 days
 
 ***Target:***
-- To learn and practice how to make a dashboard using Streamlit 
-- Enhancing experience in working with big data
+- To learn and practice how to make a dashboard using Streamlit.
+- Enhancing experience in working with big data.
 - Improving the skills in data processing, applying statistical knowledge, samping and visualization to solve the real-world problems.
 
 ## Technical Stack:

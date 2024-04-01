@@ -4,9 +4,11 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
 #read data
-df = pd.read_parquet('df_sample.parquet')
+root_path = Path(__file__).parent.parent # pages < root
+df = pd.read_parquet(root_path / "data" / "df_sample.parquet")
 ##
 st.title(':books: Vietnam Highschool Exam 2018-2021 Dashboard')
 st.markdown('##')

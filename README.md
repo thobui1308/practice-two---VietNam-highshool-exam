@@ -77,4 +77,4 @@ $ streamlit run introduction.py
 
 ### Conclution page
 
-![Homepage](screenshots/conclution.png)
+![Homepage](screenshots/conclusion.png)

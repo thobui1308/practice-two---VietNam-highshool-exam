@@ -1,8 +1,8 @@
 # VietNam Highshool Exam
 ## Overview 
-- The VietNam High School Exam dashboard provides an overview and detailed infomation about the National High School Exam from 2017 to 2021.
+- In this project, i will analyze the data on National High School Examination scores from 2017 to 2021 to enhance my skills in data processing, applying statistical knowledge, sampling  and visualization to solve real world problems. The main goal with this project is to learn how to make a dashboard using Streamlit, an open-source library that is perfectly suited for Data Science. And by doing this, I hope to gain a deep and detailed understanding of secondary education in VietNam.
 - The dataset is sourced from Kaggle:  https://www.kaggle.com/datasets/phuc16102001/vietnam-highschool-exam-2017-to-2021
-- Here is dashboard public: https://practice-two---vietnam-highshool-exam.streamlit.app/
+- The VietNam High School Exam dashboard provides an overview and detailed infomation about the National High School Exam from 2017 to 2021. Here is dashboard public: https://app-vietnam-highschool-exam.streamlit.app/
 
 ## Team Size
 - 1 Data Analyst
@@ -66,3 +66,15 @@ $ streamlit run introduction.py
 ### Dataset page
 
 ![Homepage](screenshots/dataset.png)
+
+### Overview page
+
+![Homepage](screenshots/overviewdashboard.png)
+
+### Detail page
+
+![Homepage](screenshots/detaildashboard.png)
+
+### Conclution page
+
+![Homepage](screenshots/conclution.png)
